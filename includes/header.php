@@ -11,7 +11,7 @@
 <body>
     <div class= "container">
     <h2> Follow each link to the page example </h2>
-    <ul class="nav nav-pills">
+    <ul class="nav">
         <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
         <li class="nav-item"><a class="nav-link " href="array.php">Simple Array and Printouts</a></li>
         <li class="nav-item"><a class="nav-link " href="forloop.php">Simple for loop</a></li>
